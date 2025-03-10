@@ -52,7 +52,11 @@ Ensure you have installed:
 
 ## 🎥 Video Demo
 
-[Click here to watch a demo of the application](#)
+
+https://github.com/user-attachments/assets/bdf2c008-f6ae-4589-b1ef-a903f678e23d
+
+
+
 
 ## 📄 License
 
