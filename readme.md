@@ -31,10 +31,6 @@ ChatApp is a real-time messaging application that allows users to chat with othe
 ### **Prerequisites**
 
 Ensure you have installed:
-
-- **Java 17+**
-- **Node.js & npm**
-- **MongoDB**
 - **Docker & Docker Compose (optional)**
 
 ### **Installation with Docker**
